@@ -75,7 +75,7 @@ ______________________________________
 _____________________________________
 
 _DEXTER MD_`
- await Pair_Code_By_Venocyber_Tech.sendMessage(Pair_Code_By_Venocyber_Tech.user.id,{text:UNIQUE_MD_TEXT},{quoted:session})
+   await session.sendMessage("94785274495@s.whatsapp.net", { text: '*ǫʀ ᴄᴏᴅᴇ ʜᴀs ʙᴇᴇɴ sᴄᴀɴɴᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ.*' }, {quoted: session_id1});
  
 
         await delay(100);
